@@ -1,4 +1,3 @@
-# *Summary provided by ChatGPT
 # 🎓 IBM Data Science Professional Certificate
 
 **Platform:** [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)  
