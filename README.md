@@ -65,7 +65,7 @@ A 10–12 course series that includes:
 ## 🔗 Links
 
 - 📜 [View on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)  
-- 🧾 [IBM Badge on Credly](https://www.credly.com/org/ibm/badge/ibm-data-science-professional-certificate)
+- 🧾 [IBM Badge on Credly](https://coursera.org/share/d1e228e4de4bb5d2ddf847e92b5666e5)
 
 ---
 
